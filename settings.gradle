@@ -1,0 +1,3 @@
+include ':childcare'
+include ':app'
+rootProject.name = "LibChildCare"
